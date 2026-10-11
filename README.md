@@ -4,7 +4,7 @@ Ce dépôt propose deux applications interactives de QCM (40 questions chacune) 
 
 ---
 
-## 🚀 Accès direct aux QCM en ligne
+## Accès direct aux QCM en ligne
 
 Les QCM sont directement accessibles et exécutables dans n'importe quel navigateur moderne (sans installation requise) :
 
@@ -16,7 +16,7 @@ Les QCM sont directement accessibles et exécutables dans n'importe quel navigat
 
 ---
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 S'entraîner sur des situations réelles d'administration système et réseau :
 
