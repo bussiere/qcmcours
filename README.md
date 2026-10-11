@@ -48,6 +48,6 @@ S'entraîner sur des situations réelles d'administration système et réseau :
 * **Validation explicite** : vous pouvez réfléchir, cocher et décocher avant de valider votre sélection.
 * **Correction instantanée et pédagogique** :
   * Verdict détaillé option par option (réponses correctement cochées, manquées ou cochées à tort).
-  * Explication pas à pas et point clé à retenir 💡.
+  * Explication pas à pas et point clé à retenir .
 * **Bilan final** : calcul de la note sur 40, appréciation personnalisée et liste des questions à retravailler.
 * **Thème clair / sombre** automatique ou commutable d'un clic.
