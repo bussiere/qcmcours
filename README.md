@@ -9,10 +9,10 @@ Ce dépôt propose deux applications interactives de QCM (40 questions chacune) 
 Les QCM sont directement accessibles et exécutables dans n'importe quel navigateur moderne (sans installation requise) :
 
 * 🐧 **QCM Linux utilisateur (40 questions)** :  
-  👉 [https://bussiere.github.io/qcmcours/qcm_linux.html](https://bussiere.github.io/qcmcours/qcm_linux.html)
+  => [https://bussiere.github.io/qcmcours/qcm_linux.html](https://bussiere.github.io/qcmcours/qcm_linux.html)
 
 * 🌐 **QCM Réseaux informatiques (40 questions)** :  
-  👉 [https://bussiere.github.io/qcmcours/qcm_reseau.html](https://bussiere.github.io/qcmcours/qcm_reseau.html)
+  => [https://bussiere.github.io/qcmcours/qcm_reseau.html](https://bussiere.github.io/qcmcours/qcm_reseau.html)
 
 ---
 
